@@ -36,6 +36,6 @@ streamlit run app.py
 Academic Mini Project – Computer Architecture
 
 ## Author
-Immanuvel Yakkobu
+Immanuvel Y
 
 B.Tech Computer Science and Engineering – Cyber Security
